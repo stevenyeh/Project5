@@ -1,0 +1,13 @@
+Websites:
+Scikit-learn documentation (machine learning classifiers)
+http://scikit-learn.org/stable/
+
+Udacity Forums
+https://discussions.udacity.com/c/nd002-p5-intro-to-machine-learning/p5-identifying-fraud-from-enron-email
+
+StackOverflow
+http://stackoverflow.com/questions/15810339/how-are-feature-importances-in-randomforestclassifier-determined
+
+http://stackoverflow.com/questions/28064634/random-state-pseudo-random-numberin-scikit-learn
+
+“I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
